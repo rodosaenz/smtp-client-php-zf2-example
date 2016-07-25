@@ -1,0 +1,14 @@
+{
+    "name": "vendor/smtp-client-php-example",
+    "description": "Description of project quantic-smtp-client-php-example.",
+    "authors": [
+        {
+            "name": "rodo",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "zendframework/zend-mail": "2.*",
+        "zendframework/zend-servicemanager": "2.*"
+    }
+}
